@@ -86,3 +86,4 @@ function calcularPerimetroTriangulo() {
     alert(area);
   }
 
+
